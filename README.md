@@ -1,2 +1,3 @@
 # Removing-value-from-set
-Removing value from the set
+
+mySet.delete(some_val);
